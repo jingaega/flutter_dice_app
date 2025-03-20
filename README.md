@@ -1,4 +1,4 @@
-# basics
+# diceApp
 
 A new Flutter project.
 
