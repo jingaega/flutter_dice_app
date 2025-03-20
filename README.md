@@ -1,4 +1,4 @@
-# Dice
+# dice
 
 A new Flutter project.
 
