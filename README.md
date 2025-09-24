@@ -1,3 +1,18 @@
-# Dice Roller
+## 🎲 Dice Roller App (Flutter)
 
-Flutter Dice App based on [Maximilian Schwarzmüller's Flutter & Dart - The Complete Guide [2025 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=ST11MT170325G1) course.
+A simple Flutter app that simulates rolling a dice. Each time the button is pressed, the dice face updates to a random number between 1 and 6. The app is built to practice Flutter basics, stateful widgets, custom widgets, and asset management.
+
+## 🚀 Features
+
+Gradient background using LinearGradient.
+
+Dice image updates dynamically on button press.
+
+Reusable StyledText widget for consistent text styling.
+
+Uses StatefulWidget (DiceRoller) to manage dice state.
+
+Clean UI with centered layout.
+
+## 📸 Preview
+
