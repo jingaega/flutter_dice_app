@@ -15,4 +15,4 @@ Uses StatefulWidget (DiceRoller) to manage dice state.
 Clean UI with centered layout.
 
 ## 📸 Preview
-![alt text](https://github.com/jingaega/flutter_dice_app/blob/main/ScreenShots/Screenshot 2025-09-24 184455.png?raw=true)
+![alt text](https://github.com/jingaega/flutter_dice_app/blob/main/ScreenShots/Screenshot1.png?raw=true)
